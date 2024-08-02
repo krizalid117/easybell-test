@@ -7,3 +7,8 @@ Classes added by me:
 - app/Models/Rule.php
 - app/Models/Ruleset.php
 - tests/Unit/TestCheckout.php
+
+This is an assignment from http://codekata.com/kata/kata09-back-to-the-checkout/
+
+By: Patricio Zuniga Gonzalez
+For: Easybell
